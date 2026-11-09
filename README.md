@@ -27,7 +27,7 @@ applications, model evaluation, and collaboration with scientists.
 
 ## Technologies
 
-**Programming:** Python, MATLAB, SQL, JavaScript, Dart
+**Programming:** Python, MATLAB, SQL, C++
 
 **Machine learning:** PyTorch, scikit-learn, CNNs,
 cross-validation, error analysis
