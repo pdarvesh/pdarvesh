@@ -22,7 +22,6 @@ applications, model evaluation, and collaboration with scientists.
 | ABRA | Tools for auditory brainstem response analysis |
 | ABR Peak Estimation | CNN-based waveform landmark estimation and evaluation |
 | Federated Learning Thesis | Comparing centralized and federated models for physiological signals |
-| Flutter Tablet Uploader | A prototype for selecting and uploading research data |
 | Shipment Forecasting | Time-series analysis and forecasting in a Purdue/Caterpillar academic project |
 
 ## Technologies
