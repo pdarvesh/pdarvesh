@@ -31,7 +31,7 @@ applications, model evaluation, and collaboration with scientists.
 **Machine learning:** PyTorch, scikit-learn, CNNs,
 cross-validation, error analysis
 
-**Applications and data:** Flutter, Django, pandas, NumPy,
+**Applications and data:** Django, pandas, NumPy,
 REST APIs, JSON, XML, Git
 
 ## Background
